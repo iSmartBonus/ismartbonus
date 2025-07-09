@@ -4,6 +4,7 @@
   "description": "iSmartBonus (ISB) is a utility token powering a smart cashback ecosystem. Users receive immediate discounts and earn up to 50% cashback in ISB tokens when shopping with partner stores. Bonuses unlock gradually, but early withdrawal is possible with partial burn, creating token scarcity and increasing long-term value.",
   "image": "https://ismartbonus.github.io/ismartbonus/logo.png",
   "external_url": "https://ismartbonus.com",
+  "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Token Utility", "value": "Cashback & Discounts" },
     { "trait_type": "Max Cashback", "value": "50%" },
