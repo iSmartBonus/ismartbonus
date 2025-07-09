@@ -1,0 +1,39 @@
+{
+  "name": "iSmartBonus",
+  "symbol": "ISB",
+  "description": "iSmartBonus (ISB) is a utility token powering a smart cashback ecosystem. Users receive immediate discounts and earn up to 50% cashback in ISB tokens when shopping with partner stores. Bonuses unlock gradually, but early withdrawal is possible with partial burn, creating token scarcity and increasing long-term value.",
+  "image": "https://ismartbonus.github.io/ismartbonus/logo.png",
+  "external_url": "https://ismartbonus.com",
+  "attributes": [
+    { "trait_type": "Token Utility", "value": "Cashback & Discounts" },
+    { "trait_type": "Max Cashback", "value": "50%" },
+    { "trait_type": "Early Withdrawal", "value": "With Token Burn" },
+    { "trait_type": "Burn Mechanism", "value": "Yes" },
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Decimals", "value": "6" }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "4e6jbMD7gLp8FdrECzGHdZfdZx21sCy4Z9YJP9S4U1mU",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://ismartbonus.github.io/ismartbonus/logo.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "name": "iSmartBonus",
+    "website": "https://ismartbonus.com",
+    "twitter": "https://twitter.com/ismartbonus",
+    "telegram": "https://t.me/ismartbonus",
+    "instagram": "https://instagram.com/ismartbonus",
+    "whitepaper": "https://ismartbonus.com/en/whitepaperen/",
+    "docs": "https://ismartbonus.com/en/isbtokenen"
+  }
+}
